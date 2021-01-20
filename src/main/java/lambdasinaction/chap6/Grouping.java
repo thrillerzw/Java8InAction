@@ -1,3 +1,4 @@
+/*
 package lambdasinaction.chap6;
 
 import java.util.*;
@@ -94,3 +95,4 @@ public class Grouping {
                         toSet() )));
     }
 }
+*/

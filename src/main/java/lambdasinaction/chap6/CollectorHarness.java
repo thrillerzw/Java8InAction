@@ -1,3 +1,4 @@
+/*
 package lambdasinaction.chap6;
 
 import java.util.function.*;
@@ -21,3 +22,4 @@ public class CollectorHarness {
         return fastest;
     }
 }
+*/
